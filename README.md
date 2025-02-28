@@ -1,6 +1,9 @@
 # Data-Preparation
 
+O objetivo desse trabalho é estudar a forma de realização da preparação dos dados
+
 Por que a preparação de dados é importante?
+
 A preparação de dados pode consumir até 80% do tempo investido em um projeto de ML e é essencial para modelos de machine learning eficazes.
 Fazer o trabalho para validar, limpar e aumentar adequadamente os dados brutos é essencial para extrair insights precisos e úteis deles. 
 A validade e o poder de qualquer análise ou modelo de negócio dependem do sucesso nos estágios iniciais da preparação de dados. 

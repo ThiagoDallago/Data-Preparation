@@ -31,3 +31,5 @@ O processo de preparação de dados pode variar dependendo da necessidade, mas n
     - Divisão dos Dados
     - Tratamento das variáveis numéricas (Padronização dos Dados)
     - Tratamento das variáveis categóricas (One Hot Encoding)
+
+6. Compondo a ABT tratada

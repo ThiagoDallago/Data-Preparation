@@ -12,18 +12,22 @@ O processo de preparação de dados pode variar dependendo da necessidade, mas n
 
 ## Estrutura do projeto
 1. Introdução
+
 2. Fonte dos Dados
+
 3. Dicionário dos Dados
+
 4. Análise Exploratória
-  - Importação de Bibliotecas
-  - quantidade de linhas e colunas
-  - Metadados
-  - Análise estatística para os dados numéricos
-  - Análise das variáveis qualitativas
-  - Verificação da proporção da variável target
+    - Importação de Bibliotecas
+    - quantidade de linhas e colunas
+    - Metadados
+    - Análise estatística para os dados numéricos
+    - Análise das variáveis qualitativas
+    - Verificação da proporção da variável target
+
 5. Pré-processamento dos Dados
-  - Verificando a quantidade de valores nulos por coluna
-  - Separando variáveis explicativas e variável target
-  - Divisão dos Dados
-  - Tratamento das variáveis numéricas (Padronização dos Dados)
-  - Tratamento das variáveis categóricas (One Hot Encoding)
+    - Verificando a quantidade de valores nulos por coluna
+    - Separando variáveis explicativas e variável target
+    - Divisão dos Dados
+    - Tratamento das variáveis numéricas (Padronização dos Dados)
+    - Tratamento das variáveis categóricas (One Hot Encoding)
